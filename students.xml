@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentXmlList>
+    <students>
+        <email>anita@email.com</email>
+        <id>1</id>
+        <name>Anita</name>
+    </students>
+    <students>
+        <email>sama@email.com</email>
+        <id>2</id>
+        <name>Sam</name>
+    </students>
+    <students>
+        <email>jes@email.com</email>
+        <id>3</id>
+        <name>Jessica</name>
+    </students>
+    <students>
+        <email>tony@email.com</email>
+        <id>4</id>
+        <name>Tony</name>
+    </students>
+</studentXmlList>
